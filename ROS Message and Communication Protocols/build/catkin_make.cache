@@ -1,0 +1,2 @@
+arithmetic_node:chatbot_node:counter_node:message_ui
+-DCATKIN_DEVEL_PREFIX=/home/shri/ros_hw/devel -DCMAKE_INSTALL_PREFIX=/home/shri/ros_hw/install -G Unix Makefiles

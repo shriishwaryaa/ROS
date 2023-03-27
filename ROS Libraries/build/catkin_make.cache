@@ -1,0 +1,2 @@
+apriltags_ros/apriltags:apriltags_ros/apriltags_ros:motion_decoder
+-DCATKIN_DEVEL_PREFIX=/home/shri/ros_hw2/devel -DCMAKE_INSTALL_PREFIX=/home/shri/ros_hw2/install -G Unix Makefiles

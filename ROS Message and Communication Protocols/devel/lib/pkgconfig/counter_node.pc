@@ -1,0 +1,8 @@
+prefix=/home/shri/ros_hw/devel
+
+Name: counter_node
+Description: Description of counter_node
+Version: 0.0.0
+Cflags: -I/home/shri/ros_hw/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
